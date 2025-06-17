@@ -1,6 +1,13 @@
 dgivenv/
 torchdgivenv/
 Data/*/
+*.tsv
+*.csv
+*.png
+Tools/GNN_OUTPUTS/*
+Methods/output/*
+Methods/output_notebooks
+Gen_Hypergraph/output/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
