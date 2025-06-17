@@ -7,6 +7,10 @@ Data/*/
 Tools/GNN_OUTPUTS/*
 Methods/output/*
 Methods/output_notebooks
+Methods/OT/*
+Data/50_gene_distance_graph.edgelist
+Data/distance_matrix.npy
+Methods/id_to_gene_claim.json
 Gen_Hypergraph/output/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
