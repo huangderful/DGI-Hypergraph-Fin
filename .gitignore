@@ -12,6 +12,8 @@ Data/50_gene_distance_graph.edgelist
 Data/distance_matrix.npy
 Methods/id_to_gene_claim.json
 Gen_Hypergraph/output/*
+Tools/drichlet
+Tools/robustnodes
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
